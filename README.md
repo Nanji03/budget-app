@@ -1,6 +1,6 @@
 # Budget
 
-BudgetBuddy is a simple budgeting web application built with React that helps you plan a monthly budget, track daily transactions, and visualize spending over time.
+Budget is a simple budgeting web application built with React that helps you plan a monthly budget, track daily transactions, and visualize spending over time.
 
 ## Features
 
